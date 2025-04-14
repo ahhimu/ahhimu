@@ -1,8 +1,8 @@
 <img aling="center" src="https://github.com/user-attachments/assets/f6622427-1d1b-4d9a-9e57-93c946693832">
 
 ## 💫 About Me:
-<h1 align="center"> I'm Md. Ahsan Habib </h1>
-<h2 align="center"> "Himu" is my nickname </h2>
+<h1 align="center"> I'm Md. Ahsan Habib Himu </h1>
+
 <h3 align="center">A Passionate Junior Web Developer from Bangladesh 🇧🇩</h3>
 
 ---
