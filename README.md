@@ -1,7 +1,8 @@
 <img aling="center" src="https://github.com/user-attachments/assets/f6622427-1d1b-4d9a-9e57-93c946693832">
 
 ## 💫 About Me:
-<h1 align="center"> I'm Himu</h1>
+<h1 align="center"> I'm Md. Ahsan Habib </h1>
+<h2 align="center"> "Himu" is my nickname </h2>
 <h3 align="center">A Passionate Junior Web Developer from Bangladesh 🇧🇩</h3>
 
 ---
@@ -31,8 +32,8 @@
 ### 📈 GitHub Stats:
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" width="48%" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" width="48%" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ahhimu&show_icons=true&theme=radical" width="48%" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahhimu&layout=compact&theme=radical" width="48%" />
 </p>
 
 <br/><br/><br/>
@@ -41,7 +42,7 @@
 
 ### 🔗 Connect with me:
 <p>
-  <a href="mailto:himu@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" /></a>
+  <a href="mailto:ahasanhabibhimu.bc@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
 </p>
 
